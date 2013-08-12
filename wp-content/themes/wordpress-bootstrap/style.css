@@ -408,6 +408,10 @@ ol.commentlist #respond{
 }
 
 /* specific post-type styles */
+.qa-faq-title {
+  background: url(images/black-bullet.gif) no-repeat left 18px;
+  padding-left: 20px
+}
 
 /* image attachment */
 
